@@ -2,10 +2,10 @@
 
 <h2>👨‍💻Cyber Secuirty Projects:</h2>
 
-- <b></b>
+
  
-- <b>Complete </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Complete Honeypot-Project-Using-Cowrie-ELK-Stack </b>
+  - [Complete Honeypot-Project-Using-Cowrie-ELK-Stack ](https://github.com/immanuellee/Honeypot-Project-Using-Cowrie-ELK-Stack)
 
 
 
