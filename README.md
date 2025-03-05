@@ -8,7 +8,7 @@
   - [Complete Honeypot-Project-Using-Cowrie-ELK-Stack ](https://github.com/immanuellee/Honeypot-Project-Using-Cowrie-ELK-Stack)
 
 - <b>Complete Phising-Attack-Simulation-with Gophish </b>
-  - [Complete Honeypot-Project-Using-Cowrie-ELK-Stack ](https://github.com/immanuellee/Phishing-Attack-Simulation-with-Gophish)
+  - [Complete Phising-Attack-Simulation-with Gophish](https://github.com/immanuellee/Phishing-Attack-Simulation-with-Gophish)
 
 
 <h2> 🤳 Connect with me:</h2>
